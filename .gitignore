@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+# Ignore also Csv files
+*.csv
 
 # Distribution / packaging
 .Python
@@ -74,6 +76,8 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.vscode
+
 
 # IPython
 profile_default/
